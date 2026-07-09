@@ -1,0 +1,10 @@
+body {
+  color: #fffafa;
+  font-family: Arial, sans-serif;
+    background-image: url('fundo-ia.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    margin: 0;
+}
